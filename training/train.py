@@ -92,7 +92,7 @@ def main():
             lr_scheduler_type = "linear",
             seed = 3407,
             output_dir = OUTPUT_DIR,
-            evaluation_strategy="steps",
+            eval_strategy="steps",
             eval_steps=10,
             save_strategy="steps",
             save_steps=10,
