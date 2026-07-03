@@ -62,12 +62,5 @@ Outputs and metrics are stored in the `outputs/samples/` directory.
 For a comprehensive guide on hosting this fine-tuned model on a VPS using vLLM, please refer to:
 👉 [docs/hosting.md](docs/hosting.md)
 
-## 🧠 Interview Preparation & Technical Decisions
-
-- **Why Qwen2.5?** Excellent multi-lingual support (Hindi/Hinglish/English) and strong instruction-following capabilities.
-- **Why Unsloth & QLoRA?** Allows fine-tuning a 3B parameter model on consumer-grade GPUs (like an RTX 3060/4090) or cheap VPS instances by drastically reducing VRAM requirements and accelerating training by 2x.
-- **Why Merge Adapters?** Merging the LoRA weights into the base model creates a standalone artifact that can be directly served by optimized inference engines like vLLM without complex loading logic.
-- **Safety & Evaluation:** The qualitative evaluation step strictly checks for tone, the avoidance of fatalistic predictions, and mandatory redirections for medical/mental health crises.
-
 ---
 *Built for the Vedaz AI Engineer Assessment.*
