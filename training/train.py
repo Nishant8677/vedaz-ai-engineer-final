@@ -2,8 +2,7 @@ import os
 import torch
 from datasets import load_dataset
 from unsloth import FastLanguageModel
-from trl import SFTTrainer
-from transformers import TrainingArguments
+from trl import SFTTrainer, SFTConfig
 from unsloth import is_bfloat16_supported
 from unsloth.chat_templates import get_chat_template
 
@@ -78,7 +77,7 @@ def main():
         max_seq_length = MAX_SEQ_LENGTH,
         dataset_num_proc = 2,
         packing = False, # Can make training 5x faster for short sequences.
-        args = TrainingArguments(
+        args = SFTConfig(
             per_device_train_batch_size = 2,
             gradient_accumulation_steps = 4,
             warmup_steps = 5,
