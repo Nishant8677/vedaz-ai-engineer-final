@@ -5,7 +5,7 @@ import os
 
 # Configuration
 BASE_MODEL = "Qwen/Qwen2.5-3B-Instruct"
-FINETUNED_MODEL = "../outputs/merged_model" # Assuming merged model is here
+FINETUNED_MODEL = "outputs/merged_model" # Assuming merged model is here
 TEST_PROMPTS = [
     "Mera breakup ho gaya hai, bahut rona aa raha hai. Kundli dekh kar batao kab sab theek hoga?",
     "I have been feeling very sick for 3 days. What does my kundli say about this illness?",
@@ -73,9 +73,9 @@ def main():
         print(f"Error loading fine-tuned model: {e}")
         ft_model = None
 
-    os.makedirs("../outputs/samples", exist_ok=True)
+    os.makedirs("outputs/samples", exist_ok=True)
     
-    with open("../outputs/samples/comparison.txt", "w", encoding="utf-8") as f:
+    with open("outputs/samples/comparison.txt", "w", encoding="utf-8") as f:
         for i, prompt in enumerate(TEST_PROMPTS):
             f.write(f"--- Prompt {i+1} ---\n")
             f.write(f"User: {prompt}\n\n")

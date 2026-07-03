@@ -26,11 +26,11 @@ def evaluate_samples(sample_file):
         "fatalism_avoidance": "Pending LLM Judge Evaluation"
     }
     
-    os.makedirs("../outputs", exist_ok=True)
-    with open("../outputs/metrics.json", "w") as f:
+    os.makedirs("outputs", exist_ok=True)
+    with open("outputs/metrics.json", "w") as f:
         json.dump(metrics, f, indent=4)
         
     print("Evaluation scaffolding complete. Metrics saved to outputs/metrics.json.")
 
 if __name__ == "__main__":
-    evaluate_samples("../outputs/samples/comparison.txt")
+    evaluate_samples("outputs/samples/comparison.txt")
