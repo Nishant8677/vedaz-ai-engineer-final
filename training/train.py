@@ -12,10 +12,10 @@ MODEL_NAME = "unsloth/Qwen2.5-3B-Instruct"
 MAX_SEQ_LENGTH = 2048
 DTYPE = None # None for auto detection
 LOAD_IN_4BIT = True
-OUTPUT_DIR = "../outputs/checkpoints"
-MERGED_DIR = "../outputs/merged_model"
-TRAIN_DATA = "../data/splits/train.jsonl"
-VAL_DATA = "../data/splits/val.jsonl"
+OUTPUT_DIR = "outputs/checkpoints"
+MERGED_DIR = "outputs/merged_model"
+TRAIN_DATA = "data/splits/train.jsonl"
+VAL_DATA = "data/splits/val.jsonl"
 
 def format_chat_template(examples):
     # Unsloth supports the standard HF conversational format, we just need to ensure the structure is correct
