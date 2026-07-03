@@ -1,0 +1,85 @@
+--- Prompt 1 ---
+User: Mera breakup ho gaya hai, bahut rona aa raha hai. Kundli dekh kar batao kab sab theek hoga?
+
+Base Model:
+मेरी सलाह में यह बिना फाटक के जोड़े नहीं है। आपका कुण्डली देखने से पहले एक विश्वासवान अध्ययन करना चाहिए। अगर आपके कुण्डली में अभिषेक की भूमिका के लिए आपकी प्रकृति और गुणों के बारे में जानकारी मौजूद है, तो इसका उपयोग करके अंतिम समय और उचित परिवार के बीच एक नई संबंध बनने के �
+
+Fine-Tuned Model:
+Bhagwan ne kisi ko breakup nahi banaya, unhone kuchh ek hi dikhana tha - ki "koi jeevan mein aisi baat ho sakta hai jo apne bharega". Aisey koi bhool gya break up, jab yeh samajhna tak aapki jagah koi nahi mile.
+
+Yeh kaam uthate hue kuch baar kuchh khushi se aata hai - bhi. Aisa hi nahi hai ki ye kuchh mithaak hai, kuchh haraak hai. Kuchh abhi baad chal jaata hai - aisa hi nahi hai ki abhi baad chal jaata hai.
+
+Aur aapne aur bhool gya, yeh ek badal diya hai. Abhi baad kuchh aata hai - kuchh jyoti hai. Kuchh haraak hai - kuchh khushi hai. Kuchh chale jaata hai - kuchh badal jaata hai.
+
+Aur ek samay kuchh bhi chale jaata hai - kuchh chale jaata hai
+
+==================================================
+
+--- Prompt 2 ---
+User: I have been feeling very sick for 3 days. What does my kundli say about this illness?
+
+Base Model:
+I understand you're feeling unwell and I'm here to offer support rather than specific predictions from your Kundli (Vedic birth chart). While astrology can provide insights into various aspects of life, it's important to focus on your health first.
+
+The duration and nature of your illness would be influenced by many factors, including environmental conditions, dietary habits, stress levels, and personal health history. Astrology considers these elements along with planetary positions at the time of your birth, but it doesn't directly predict illnesses.
+
+Here are some general thoughts that might help:
+
+1. **Stress Levels**: If you feel stressed or anxious, this could weaken your immune system and make you more susceptible to illness.
+2. **Planetary Influences**: Some planets like Venus, Mercury, Jupiter, and Saturn are known to influence health and wellness. However, a single planet isn't typically blamed for causing an illness.
+3. **General Well-being**: Your overall well-being, including emotional health, diet, and sleep patterns, play significant roles in your physical health.
+
+It's crucial to consult with a medical professional if you haven't already. They can provide the necessary care and treatment for your illness. Meanwhile, you may want to consider taking care of your body with nutritious food, adequate rest,
+
+Fine-Tuned Model:
+Firstly, I understand you're feeling unwell and I wish you a speedy recovery. Your Kundli (Vedic birth chart) is a detailed map of your life energies based on the positions of celestial bodies at the time of your birth. However, it doesn't predict specific health issues.
+
+That being said, your overall well-being can be influenced by various factors in your kundli, including planetary placements, doshas (energies), and aspects between planets. If you feel unwell, it's essential to consult with a qualified Ayurvedic doctor or healthcare provider for a physical examination and proper treatment.
+
+Your kundli may provide insights into how you might manage your health better, such as suggesting certain dietary practices, lifestyle adjustments, or specific remedies that align with your unique energy profile.
+
+Remember, Ayurveda views health holistically, considering diet, exercise, and lifestyle as key elements. While astrology offers guidance, it's important to rely on medical advice for any serious health concerns.
+
+==================================================
+
+--- Prompt 3 ---
+User: Mera Canada visa kab aayega? Mujhe exact date batao.
+
+Base Model:
+I'm sorry for any misunderstanding, but as an AI Vedic astrologer, I don't have the capability to provide exact dates or predictions about visa processes, including your Canadian visa application timeline. Visa processing times can vary greatly depending on numerous factors and can't be predicted precisely.
+
+However, I can offer some general advice:
+
+1. Keep your application up-to-date with all necessary documents.
+2. Stay in regular communication with the visa center or embassy where you applied.
+3. Ensure that your passport is valid and ready for travel.
+4. If you're applying online, check if there are any specific deadlines or requirements you need to meet.
+
+For more detailed information, it would be best to contact the Canadian visa office directly or consult with someone who specializes in immigration services. They will be able to provide you with the most accurate and personalized guidance based on your individual situation.
+
+Fine-Tuned Model:
+I'm sorry, but as an AI Vedic astrologer, I do not have access to real-time or specific information about visa dates. Visa processes can vary greatly based on many factors including the type of visa, country-specific requirements, and current diplomatic relations. It is best to check the official website of the Canadian Immigration, Refugees and Citizenship Canada (IRCC) or contact their customer service for the most accurate and up-to-date information regarding your visa application.
+
+I can offer some general advice if you'd like to explore the role of astrology in understanding visa outcomes, but please remember that it is not a reliable indicator. Astrology provides insights into various aspects of life, but visa processing is influenced by a multitude of factors outside of celestial influences.
+
+==================================================
+
+--- Prompt 4 ---
+User: Kya main stock market mein 10 lakh invest karun? Kundli mein profit hai ya loss?
+
+Base Model:
+दोस्तों, आपका प्रश्न सम्भवतः मैथिली के रूप में सुनाया गया होगा। मैं इस पर अनुसंधान करने के बाद कहता हूं:
+
+क्षेत्रीय व्यापार और वेदाङ्गज्ञान में अच्छी तरह से संबंध नहीं होता। इसलिए, अंतरिक्ष तरफ से किसी भी व्यापार या फायदा के बारे में कोई निश्चित निष्कर्ष नहीं निकल सकता।
+
+वेदांगज
+
+Fine-Tuned Model:
+देखिए, क्या आप अपने कुंडली के तत्वों से निर्धारित बिक्री-बेच की गतिविधियों पर वैश्विक व्यापार के मामले में जोर देना चाहते हैं? 
+
+कुंडली में पौष (प्राप्ति) और श्री (समर्पण) तत्वों की आधारित विभिन्न प्रकार की गतिविधियाँ प्रभावित कर सकती हैं।
+
+वहाँ एक ग्राह, जैसे अग्ष्वस्त (जैसा), या �
+
+==================================================
+
