@@ -5,6 +5,7 @@ from unsloth import FastLanguageModel
 from trl import SFTTrainer
 from transformers import TrainingArguments
 from unsloth import is_bfloat16_supported
+from unsloth.chat_templates import get_chat_template
 
 # Configuration
 MODEL_NAME = "unsloth/Qwen2.5-3B-Instruct"
@@ -31,7 +32,7 @@ def main():
     )
     
     # Setup Chat Template
-    tokenizer = FastLanguageModel.get_chat_template(
+    tokenizer = get_chat_template(
         tokenizer,
         chat_template = "qwen-2.5", # Standard template for Qwen
     )
